@@ -1,3 +1,7 @@
+.dashletViewContentInnerLayout .dashletHeader{
+  border:5px solid black !important;
+}
+
 *{
   background:red !important;
   border: 1px solid red !important;
